@@ -11,9 +11,11 @@ The materials are designed for academic teaching, practical sessions, assignment
 
 ### S.Y.B.Sc. Computer Science
 - Mobile Application Development (MAD – Android)
-- Information Retrieval
 - Introduction to Artificial Intelligence
 
+### T.Y.B.Sc. Computer Science
+- Information Retrieval
+  
 ### T.Y.B.Sc. Information Technology
 - IT Infrastructure Management
 
